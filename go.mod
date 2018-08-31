@@ -1,1 +1,1 @@
-module github.com/inhuman/testmod
+module github.com/inhuman/testmod/v2
